@@ -4,8 +4,6 @@
 ## Author: Luiz Cruz
 ## Date: 10/2017
 
-require __DIR__ . '/vendor/autoload.php';
-
 error_reporting(E_ERROR | E_PARSE);
 
 ## General config
